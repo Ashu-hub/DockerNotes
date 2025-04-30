@@ -1,6 +1,8 @@
 # DockerNotes
 This aims to learn about docker and its implementations.
+
 ## Table of Content
+
 - [What is Docker](What is Docker)
 - [What is Docker Container](What is Docker Container)
 - [Installing Docker](What is Docker Container)
