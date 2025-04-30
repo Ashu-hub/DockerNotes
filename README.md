@@ -47,4 +47,4 @@ Installtion is very simple & like any software installtion.
 Docker Desktop : https://docs.docker.com/desktop/
 Also, you need to create an account on Docker Hub. By this you can access many free repos and also can find your private registry there.
 
-## Docker Vs Virtual machine 
+## Docker Vs Virtual machine
